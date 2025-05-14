@@ -1,0 +1,14 @@
+[project]
+name = "hbh-image_overlay"
+description = "Use the point editor to perform image composition editing."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/wings6407/ComfyUI_HBH-image_overlay"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_HBH-image_overlay"
+Icon = ""
